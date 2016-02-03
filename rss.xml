@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[coledowden]]></title>
         <description><![CDATA[coledowden]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/coledowden/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 23:11:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 03 Feb 2016 23:15:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/coledowden/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Hello World. It's a common phrase used in the first program or post made. I remember it fondly from my computer programing classes. I hope you enjoy this website and find it useful. It's going to be the repository for a motely assortment of stuff. So, enjoy and Hello World. </p>]]></description>
+            <link>https://thegrid.ai/coledowden/20b3eb67-6882-4852-8fc1-2486123bada0/index.html</link>
+            <guid isPermaLink="false">20b3eb67-6882-4852-8fc1-2486123bada0</guid>
+            <pubDate>Wed, 03 Feb 2016 23:15:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Arsenal Line Up Summer Moves for Javier Hernandez and Mauro Icardi]]></title>
             <description><![CDATA[<article><h1>Arsenal Line Up Summer Moves for Javier Hernandez and Mauro Icardi</h1><p>looks like Arsenal is hungry for a title run...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fc06ece07f5db75a383d7d65bd0987529126a424.jpg"></article>]]></description>
